@@ -1,0 +1,2 @@
+# CalvinCoin.json
+Justlists
